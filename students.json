@@ -1,0 +1,162 @@
+{
+  "stu001": {
+    "name": "Rohit Sharma",
+    "city": "Delhi",
+    "age": 20,
+    "gender": "male",
+    "marks": {
+      "math": 92,
+      "science": 88,
+      "english": 81,
+      "computer": 90,
+      "social": 85
+    },
+    "total_marks": 436,
+    "percentage": 87.2,
+    "result_status": "Distinction"
+  },
+  "stu002": {
+    "name": "Anjali Mehta",
+    "city": "Mumbai",
+    "age": 21,
+    "gender": "female",
+    "marks": {
+      "math": 78,
+      "science": 74,
+      "english": 70,
+      "computer": 76,
+      "social": 72
+    },
+    "total_marks": 370,
+    "percentage": 74.0,
+    "result_status": "First Class"
+  },
+  "stu003": {
+    "name": "Vikas Singh",
+    "city": "Lucknow",
+    "age": 22,
+    "gender": "male",
+    "marks": {
+      "math": 65,
+      "science": 61,
+      "english": 58,
+      "computer": 64,
+      "social": 60
+    },
+    "total_marks": 308,
+    "percentage": 61.6,
+    "result_status": "First Class"
+  },
+  "stu004": {
+    "name": "Pooja Verma",
+    "city": "Jaipur",
+    "age": 19,
+    "gender": "female",
+    "marks": {
+      "math": 52,
+      "science": 49,
+      "english": 55,
+      "computer": 51,
+      "social": 50
+    },
+    "total_marks": 257,
+    "percentage": 51.4,
+    "result_status": "Second Class"
+  },
+  "stu005": {
+    "name": "Amit Patel",
+    "city": "Ahmedabad",
+    "age": 23,
+    "gender": "male",
+    "marks": {
+      "math": 41,
+      "science": 44,
+      "english": 39,
+      "computer": 42,
+      "social": 40
+    },
+    "total_marks": 206,
+    "percentage": 41.2,
+    "result_status": "Pass"
+  },
+  "stu006": {
+    "name": "Neha Iyer",
+    "city": "Chennai",
+    "age": 20,
+    "gender": "female",
+    "marks": {
+      "math": 95,
+      "science": 91,
+      "english": 89,
+      "computer": 94,
+      "social": 92
+    },
+    "total_marks": 461,
+    "percentage": 92.2,
+    "result_status": "Distinction"
+  },
+  "stu007": {
+    "name": "Sandeep Kumar",
+    "city": "Patna",
+    "age": 21,
+    "gender": "male",
+    "marks": {
+      "math": 56,
+      "science": 53,
+      "english": 50,
+      "computer": 54,
+      "social": 52
+    },
+    "total_marks": 265,
+    "percentage": 53.0,
+    "result_status": "Second Class"
+  },
+  "stu008": {
+    "name": "Kavita Joshi",
+    "city": "Pune",
+    "age": 22,
+    "gender": "female",
+    "marks": {
+      "math": 69,
+      "science": 71,
+      "english": 73,
+      "computer": 70,
+      "social": 68
+    },
+    "total_marks": 351,
+    "percentage": 70.2,
+    "result_status": "First Class"
+  },
+  "stu009": {
+    "name": "Rahul Das",
+    "city": "Kolkata",
+    "age": 19,
+    "gender": "male",
+    "marks": {
+      "math": 29,
+      "science": 31,
+      "english": 27,
+      "computer": 30,
+      "social": 28
+    },
+    "total_marks": 145,
+    "percentage": 29.0,
+    "result_status": "Fail"
+  },
+  "stu010": {
+    "name": "Sneha Choudhary",
+    "city": "Bhopal",
+    "age": 23,
+    "gender": "female",
+    "marks": {
+      "math": 82,
+      "science": 79,
+      "english": 85,
+      "computer": 88,
+      "social": 80
+    },
+    "total_marks": 414,
+    "percentage": 82.8,
+    "result_status": "Distinction"
+  }
+}
